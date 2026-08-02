@@ -11,7 +11,7 @@ This repository showcases my personal 3D design projects, including furniture, b
 | Preview | Model | Download |
 |:-------:|:------|:---------|
 | <img src="Resimler/Kitap/5.PNG" width="220"> | **The Little Prince Book** | [View Model](Modeller/Book/kucukprens.skp) |
-| <img src="Resimler/OyuncuMasasi/3.png" width="220"> | **Gaming Desk** | [View Model](Modeller/OyuncuMasasi/oyuncumamasi.skp) |
+| <img src="Resimler/OyuncuMasasi/3.png" width="220"> | **Gaming Desk** | [View Model](Modeller/OyuncuMasasi/link.txt) |
 | <img src="Resimler/Unite/ran Alıntısı.PNG" width="220"> | **Modern TV Unit** | [View Model](Modeller/Unite/ünite.skp) |
 
 ---
